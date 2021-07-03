@@ -17,5 +17,14 @@ public class gittest {
         System.out.println("hello matser");
         System.out.println("pull matser");
         System.out.println("pull1 matser");
+                System.out.println("hello git");
+        System.out.println("hello git1");
+        System.out.println("hello git2");
+        System.out.println("hello git2");
+        System.out.println("hello git1");
+        System.out.println("hello git1");
+        System.out.println("hello matser");
+        System.out.println("pull matser");
+        System.out.println("pull1 matser");
     }
 }
